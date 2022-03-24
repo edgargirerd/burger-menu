@@ -4,8 +4,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 98vh;
+    background-color: #071153;
 }
 
 h1{
     align-items: center;
+    color: rgb(255, 0, 55);
+    font-family: 'Open Sans';
 }
